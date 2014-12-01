@@ -23,8 +23,8 @@
     },
     "type": "library",
     "require": {
-        "pear-ext/pear_exception": "dev-master",
-        "pear-ext/net_socket": "dev-master"
+        "pear/pear_exception": "dev-master",
+        "pear/net_socket": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
